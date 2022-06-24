@@ -1,0 +1,14 @@
+.bigText {
+    font-size: 20rem;
+}
+
+.contentBoxHorizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    height: 80vh;
+}

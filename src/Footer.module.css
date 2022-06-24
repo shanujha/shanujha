@@ -1,0 +1,20 @@
+.baseBoxFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: darkslateblue;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    height: 10vh;
+}
+
+.baseBoxFlex a {
+    text-decoration: none;
+    color: white;
+}
+
+.baseBoxFlex span {
+    color: white
+}

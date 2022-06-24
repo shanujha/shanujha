@@ -1,0 +1,30 @@
+.branding {
+    font-size: 2rem;
+    padding: 2rem;
+}
+
+.topbar,
+.nav,
+.navUl {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {
+    justify-content: flex-end;
+}
+
+.navUl{
+    list-style: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    padding: 1rem;
+}
+
+.navUl li {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
