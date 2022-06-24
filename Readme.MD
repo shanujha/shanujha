@@ -30,20 +30,6 @@ This is my journey.
 )();
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/315axghlj4gfi6bvvthnmphrzxom">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
 ## My Statistics
 
 <br/>
@@ -56,3 +42,5 @@ This is my journey.
 <br>
 
 [![Shanu Jha's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shanujha&custom_title=Shanu%20Jha's%20Contribution%20Graph&theme=one&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://shanujha.github.io)
+
+Like this design? Copied shamelessly from [abhigyantrips](https://github.com/abhigyantrips)
